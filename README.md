@@ -1,3 +1,7 @@
+<!-- veigapunk-upstream-maintainers:start -->
+> **Upstream package maintainer contact(s):** [Maas Lalani (`maaslalani`)](https://github.com/maaslalani). Declared in the upstream release configuration.
+<!-- veigapunk-upstream-maintainers:end -->
+
 # VHS
 
 <p>
